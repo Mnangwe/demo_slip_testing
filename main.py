@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("Local function")
+print("Remote function")
